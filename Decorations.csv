@@ -1,0 +1,376 @@
+name,type,zone,use,poison,bloom
+Abiu,Tree,10-11,Edible,No,730-1095
+Achiote,Tree,10-11,Edible,No,90-120
+Air Plant,Flower,4-9,Ornamental,No,90-120
+Almond,Tree,7-9,Edible,No,1460-2190
+Aloe,Flower,2-11,Ornamental,No,180-365
+Aloe aristata,Tree,3-9,Timber,No,180-365
+American Basswood,Tree,3-8,Timber,No,1825-3650
+American Beech,Tree,4-9,Ornamental,No,1825-3650
+American Groundnut,Vine,4-9,Edible,No,90-120
+American Hazelnut,Flower,3-8,Ornamental,No,730-1460
+American Hornbeam,Tree,3-9,Ornamental,No,1825-3650
+American Sycamore,Tree,4-9,Timber,No,1825-3650
+Anacharis,Flower,3-8,Ornamental,No,30-60
+Anemone,Flower,4-8,Ornamental,No,60-90
+Angelica,Flower,3-8,Ornamental,No,365
+Anise,Tree,5-9,Ornamental,No,120
+Annatto,Tree,10-12,Edible,No,90-120
+Apios,Vine,4-9,Edible,No,90-120
+Apple,Tree,5-9,Ornamental,No,1460-2190
+Apricot,Tree,5-8,Edible,No,1095-1460
+Aptenia,Vine,4-10,Edible,No,90-120
+Areca Palm,Vine,3-9,Ornamental,No,1825-2920
+Arizona Walnut,Tree,7-9,Edible,No,1825-3650
+Arrowwood Viburnum,Tree,2-8,Ornamental,No,90-120
+Asian Pear,Tree,5-9,Edible,No,730-1460
+Avocado,Tree,9-11,Edible,No,730-1095
+Azalea,Flower,6-11,Ornamental,No,365-730
+Baby's Breath,Flower,4-9,Ornamental,No,60-90
+Bachelor’s Button,Flower,2-11,Ornamental,No,60-90
+Bacopa,Flower,7-10,Ornamental,No,60-90
+Bael,Tree,10-11,Edible,No,1460-2190
+Bald Cypress,Tree,4-10,Ornamental,No,1825-3650
+Balloon Flower,Flower,3-8,Ornamental,No,90-120
+Bamboo Shoots,Grass,7-11,Edible,No,30-60
+Batata,Vine,8-11,Edible,No,90-120
+Beaked Hazelnut,Tree,3-8,Edible,No,365-730
+Bee Balm,Tree,3-8,Edible,No,70-110
+Beet,Tree,4-9,Ornamental,No,55-70
+Begonia,Tree,5-9,Ornamental,No,60-90
+Begonia rex,Tree,5-8,Ornamental,No,60-90
+Bell Pepper,Tree,4-8,Ornamental,No,60-90
+Bermudagrass,Grass,7-10,Ornamental,No,60-90
+Big Bluestem,Tree,5-9,Ornamental,No,365-730
+Bigtooth Aspen,Tree,2-6,Timber,No,1825-3650
+Bird of Paradise,Tree,3-7,Ornamental,No,1095-1825
+Bird's Nest Fern,Flower,4-9,Ornamental,No,180-365
+Bishop’s Cap,Flower,7-10,Ornamental,No,365-730
+Black Ash,Tree,3-7,Timber,No,1825-3650
+Black Cherry,Tree,3-9,Edible,No,730-1460
+Black Gum,Tree,4-9,Ornamental,No,1825-3650
+Black Sapote,Tree,10-11,Edible,No,730-1095
+Black Spruce,Tree,2-6,Timber,No,1825-3650
+Black-eyed Susan Vine,Vine,10-11,Ornamental,No,60-90
+Blanket Flower,Flower,3-10,Ornamental,No,70-100
+Blazing Star,Flower,3-9,Ornamental,No,365-730
+Blue Fescue,Grass,4-8,Ornamental,No,365-730
+Blue Grama,Grass,3-10,Ornamental,No,365-730
+Boniato,Vine,8-11,Edible,No,90-120
+Boxelder,Tree,2-9,Timber,No,1825-3650
+Brazil Nut,Tree,11-12,Edible,No,2190-2920
+Breadfruit,Tree,10-11,Edible,No,1095-1460
+Breadnut,Tree,10-11,Edible,No,1095-1460
+Buffalograss,Grass,3-9,Ornamental,No,365-730
+Bunya Bunya,Tree,10-11,Edible,No,4380-10950
+Bur Oak,Tree,3-8,Timber,No,1825-3650
+Butterfly Weed,Tree,6-9,Edible,No,365
+Butternut,Tree,4-8,Edible,No,1825-3650
+Buttonbush,Tree,4-8,Edible,No,730
+Cabomba,Tree,2-8,Ornamental,No,60-90
+Cacao,Tree,10-11,Edible,No,1095-1460
+Caladium,Tree,6-9,Ornamental,No,70-90
+Canada Anemone,Tree,7-10,Ornamental,No,60-90
+Canada Wild Rye,Tree,6-9,Ornamental,No,90-120
+Candytuft,Tree,4-9,Ornamental,No,50-70
+Canistel,Tree,10-11,Edible,No,730-1095
+Canna,Tree,3-9,Ornamental,No,90-120
+Carpathian Walnut,Tree,6-9,Edible,No,1825-3650
+Cassava,Tree,10-12,Edible,No,210-270
+Catalpa,Tree,4-8,Ornamental,No,1825-3650
+Cherimoya,Tree,10-11,Edible,No,730-1095
+Chestnut,Tree,4-8,Edible,No,1460-2190
+Chestnut Oak,Tree,4-8,Timber,No,1825-3650
+Chilean Hazelnut,Tree,9-11,Edible,No,1460-2190
+Chinese Chestnut,Tree,4-8,Edible,No,1460-2190
+Chinkapin Oak,Tree,3-7,Timber,No,1825-3650
+Chufa,Grass,8-11,Edible,No,120-150
+Cilantro,Flower,2-11,Ornamental,No,45-70
+Cinnamon,Tree,10-12,Edible,No,1095-1460
+Clarkia,Flower,2-10,Ornamental,No,60-90
+Clematis,Flower,10-11,Ornamental,No,365-730
+Climbing Hydrangea,Vine,4-8,Ornamental,No,365-730
+Cloudberry,Flower,9-11,Ornamental,No,365-730
+Clove,Tree,10-12,Edible,No,1825-2190
+Coleus,Flower,2-11,Ornamental,No,60-90
+Collard Greens,Flower,2-11,Edible,No,60-85
+Columbine,Flower,6-10,Ornamental,No,60-90
+Comfrey,Flower,7-10,Ornamental,No,60-90
+Common Milkweed,Flower,4-8,Ornamental,No,365
+Common Persimmon,Tree,4-9,Edible,No,1825-2920
+Common Witchhazel,Tree,3-8,Ornamental,No,365-730
+Coneflower,Flower,4-9,Ornamental,No,365-730
+Coral Bells,Flower,3-9,Ornamental,No,60-90
+Coralberry,Tree,2-8,Ornamental,No,365-730
+Coreopsis,Flower,3-8,Ornamental,No,70-100
+Cosmos,Flower,4-9,Ornamental,No,60-90
+Cottonwood,Tree,3-9,Timber,No,1825-3650
+Crocus,Flower,3-8,Ornamental,No,90-120
+Crown of Thorns,Flower,3-8,Ornamental,No,180-365
+Cucumber,Flower,8-10,Ornamental,No,50-70
+Cupuacu,Tree,10-11,Edible,No,730-1095
+Currant,Flower,4-8,Ornamental,No,365-730
+Custard Apple,Tree,10-11,Edible,No,730-1095
+Cypress,Flower,3-10,Ornamental,No,1825-3650
+Cypress Vine,Flower,7-11,Ornamental,No,60-90
+Daffodil,Flower,3-10,Ornamental,No,180-365
+Dahlia,Flower,5-9,Ornamental,No,90-120
+Daikon,Flower,3-9,Ornamental,No,55-70
+Dandelion,Flower,3-9,Ornamental,No,60-120
+Date Palm,Tree,9-11,Edible,No,1460-2190
+Daylily,Flower,4-8,Ornamental,No,90-120
+Delphinium,Flower,3-9,Ornamental,No,90-120
+Devil’s Ivy,Flower,4-9,Ornamental,No,180-365
+Dieffenbachia,Flower,3-10,Ornamental,No,180-365
+Dill,Flower,4-9,Ornamental,No,40-60
+Dogwood,Flower,5-9,Ornamental,No,730-1095
+Downy Serviceberry,Tree,4-9,Edible,No,365-730
+Dracaena,Tree,4-9,Ornamental,No,365-730
+Dragon Tree,Tree,2-9,Ornamental,No,365-730
+Duckweed,Tree,4-8,Ornamental,No,14-21
+Dudleya,Tree,4-8,Edible,No,180-365
+Dusty Miller,Flower,8-10,Ornamental,No,60-90
+Dutchman's Pipe,Tree,3-8,Ornamental,No,365-730
+Dwarf Fothergilla,Tree,5-8,Ornamental,No,365-730
+Earthnut Pea,Vine,4-8,Edible,No,90-120
+Easter Cactus,Tree,2-9,Ornamental,No,90-120
+Easter Lily Cactus,Tree,4-9,Ornamental,No,180-365
+Eastern Hemlock,Tree,3-7,Ornamental,No,1825-3650
+Eastern Redbud,Tree,2-7,Ornamental,No,1460-2190
+Eastern White Pine,Tree,3-8,Timber,No,1825-3650
+Echeveria,Tree,4-9,Ornamental,No,120-180
+Echinacea,Tree,5-9,Ornamental,No,365-730
+Eggplant,Tree,3-8,Ornamental,No,60-80
+Endive,Tree,5-9,Edible,No,85-100
+English Walnut,Tree,6-9,Edible,No,1825-3650
+Escarole,Tree,5-9,Edible,No,85-100
+Etonia Rosemary,Tree,8-10,Edible,No,60-90
+Euphorbia obesa,Tree,4-9,Edible,No,365-730
+European Chestnut,Tree,5-9,Edible,No,1460-2190
+Feather Reed Grass,Grass,4-9,Ornamental,No,365-730
+Feijoa (Pineapple Guava),Tree,8-10,Edible,No,730-1095
+Flowering Dogwood,Tree,5-9,Ornamental,No,730-1095
+Fountain Grass,Grass,6-9,Ornamental,No,365-730
+Fragrant Sumac,Tree,3-9,Ornamental,No,365-730
+Garden Phlox,Flower,4-8,Ornamental,No,60-90
+Gaura,Flower,5-9,Ornamental,No,60-90
+Ginkgo,Tree,3-9,Edible,No,1825-3650
+Globe Thistle,Flower,3-8,Ornamental,No,90-120
+Grape Ivy,Vine,4-9,Ornamental,No,365-730
+Guava,Tree,9-11,Edible,No,730-1095
+Hackberry,Tree,2-9,Timber,No,1825-3650
+Heartnut,Tree,5-9,Edible,No,1460-2190
+Honeysuckle Vine,Vine,4-9,Ornamental,No,365-730
+Hophornbeam,Tree,3-9,Timber,No,1825-3650
+Indian Jujube,Tree,9-11,Edible,No,365-730
+Ironwood,Tree,5-8,Edible,No,1825-3650
+Jaboticaba,Tree,9-11,Edible,No,730-1095
+Jackfruit,Tree,10-11,Edible,No,1460-2190
+Jacob’s Ladder,Flower,2-11,Edible,No,60-90
+Japanese Forest Grass,Grass,5-9,Ornamental,No,365-730
+Japanese Walnut,Tree,5-9,Edible,No,1825-3650
+Jujube,Tree,6-9,Edible,No,365-730
+Kaffir Lime,Tree,10-11,Edible,No,1095-1460
+Kohlrabi,Flower,4-9,Ornamental,No,50-70
+Komatsuna,Flower,4-8,Ornamental,No,30-40
+Korean Pine,Tree,3-8,Edible,No,1460-2190
+Lady Palm,Flower,3-9,Ornamental,No,1825-2920
+Langsat,Tree,10-11,Edible,No,730-1095
+Lavender,Flower,5-9,Ornamental,No,90-120
+Leadplant,Flower,4-8,Ornamental,No,730-1095
+Leek,Flower,6-9,Ornamental,No,120-150
+Lilac,Flower,9-11,Ornamental,No,365-730
+Lingonberry,Vine,4-8,Ornamental,No,730-1095
+Little Walnut,Tree,7-9,Edible,No,1825-3650
+Loblolly Pine,Tree,6-9,Timber,No,1825-3650
+Loganberry,Vine,9-11,Ornamental,No,365-730
+Longan,Tree,10-11,Edible,No,1095-1460
+Loquat,Tree,8-10,Edible,No,365-730
+Lotus,Vine,6-10,Edible,No,90-120
+Lovage,Flower,11-12,Ornamental,No,90-120
+Love-in-a-Mist,Flower,2-10,Ornamental,No,60-90
+Lucky Bamboo,Flower,10-11,Ornamental,No,180-365
+Lucuma,Tree,10-11,Edible,No,1095-1460
+Lychee,Tree,10-11,Edible,No,1095-1460
+Macadamia,Tree,10-11,Edible,No,1460-2190
+Mace,Tree,11-12,Edible,No,1825-2190
+Madagascar Dragon Tree,Flower,11-12,Ornamental,No,365-730
+Magnolia,Flower,9-11,Ornamental,No,1825-3650
+Mahlab,Tree,6-8,Edible,No,1460-2190
+Malabar Chestnut,Tree,10-11,Edible,No,1460-2190
+Mango,Tree,10-11,Edible,No,1460-2190
+Mangosteen,Tree,10-11,Edible,No,1460-2190
+Manioc,Tree,10-12,Edible,No,210-270
+Mastic,Tree,9-11,Edible,No,1460-2190
+Medlar,Tree,5-8,Edible,No,730-1095
+Mockernut Hickory,Tree,5-9,Edible,No,1825-3650
+Monkey Puzzle,Tree,7-10,Edible,No,4380-10950
+Monodora,Tree,11-12,Edible,No,1460-2190
+Monstera,Flower,10-12,Ornamental,No,365-730
+Muhly Grass,Grass,6-9,Ornamental,No,365-730
+Nerve Plant,Flower,10-12,Ornamental,No,60-90
+New Jersey Tea,Flower,10-12,Ornamental,No,60-120
+New York Aster,Flower,10-12,Ornamental,No,60-90
+New Zealand Spinach,Flower,10-12,Ornamental,No,50-60
+Ninebark,Flower,10-12,Ornamental,No,365-730
+Norfolk Island Pine,Flower,10-12,Ornamental,No,1825-3650
+Northern Bayberry,Tree,3-7,Ornamental,No,365-730
+Northern Red Oak,Tree,3-8,Timber,No,1825-3650
+Northern Sea Oats,Flower,10-12,Ornamental,No,90-120
+Nutmeg,Tree,11-12,Edible,No,1825-2190
+Ohio Buckeye,Flower,10-12,Ornamental,No,1825-3650
+Okari Nut,Tree,11-12,Edible,No,1460-2190
+Olive,Flower,10-12,Ornamental,No,1460-2190
+Overcup Oak,Tree,5-9,Timber,No,1825-3650
+Oxalis,Flower,10-12,Ornamental,No,60-90
+Pak Choi,Flower,10-12,Ornamental,No,45-60
+Panda Plant,Flower,10-12,Ornamental,No,180-365
+Papyrus,Flower,10-12,Ornamental,No,365-730
+Parsley,Flower,10-12,Ornamental,No,70-90
+Parsnip,Flower,10-12,Ornamental,No,95-120
+Pasque Flower,Flower,10-12,Ornamental,No,90-120
+Passionfruit,Flower,10-12,Ornamental,No,365-730
+Pawpaw,Flower,10-12,Ornamental,No,1825-2920
+Peace Lily,Flower,10-12,Ornamental,No,180-365
+Peach,Flower,7-11,Ornamental,No,730-1095
+Peanut,Flower,10-12,Ornamental,No,120-150
+Peanut Cactus,Flower,10-12,Ornamental,No,365-730
+Pecan (Native),Tree,6-9,Edible,No,1825-3650
+Peperomia,Flower,10-12,Ornamental,No,90-180
+Persimmon,Flower,10-12,Ornamental,No,1825-2920
+Pignut Hickory,Tree,4-9,Edible,No,1825-3650
+Pili Nut,Tree,11-12,Edible,No,1460-2190
+Pine Nut (Single-leaf),Tree,5-9,Edible,No,1460-2190
+Pink Peppercorn,Tree,9-11,Edible,No,1095-1460
+Pistachio,Tree,8-10,Edible,No,1460-2190
+Polka Dot Plant,Flower,10-12,Ornamental,No,60-90
+Pomegranate,Flower,10-12,Ornamental,No,730-1095
+Ponytail Palm,Flower,10-12,Ornamental,No,1095-1460
+Portulaca,Flower,10-12,Ornamental,No,50-60
+Post Oak,Tree,6-9,Timber,No,1825-3650
+Potato,Flower,10-12,Ornamental,No,80-100
+Pothos,Flower,10-12,Ornamental,No,180-365
+Pulasan,Tree,10-11,Edible,No,1095-1460
+Purple Moor Grass,Grass,4-8,Ornamental,No,365-730
+Queensland Nut (Bopple Nut),Tree,10-11,Edible,No,1460-2190
+Rambutan,Tree,10-11,Edible,No,1095-1460
+Red Pine,Tree,3-7,Timber,No,1825-3650
+Reed Canary Grass,Grass,3-9,Ornamental,No,365-730
+River Birch,Tree,4-9,Ornamental,No,1825-3650
+Rosemary,Flower,3-9,Ornamental,No,90-120
+Rubber Plant,Flower,4-10,Ornamental,No,365-730
+Rue,Flower,3-9,Ornamental,No,60-90
+Russian Sage,Flower,4-9,Ornamental,No,60-90
+Rutabaga,Flower,4-9,Ornamental,No,80-100
+Rutabaga,Flower,4-9,Ornamental,No,80-100
+Sago Palm,Flower,3-8,Ornamental,No,1825-3650
+Salvia,Flower,3-9,Ornamental,No,60-90
+Salvinia,Flower,3-9,Ornamental,No,30-60
+Santol,Tree,10-11,Edible,No,1460-2190
+Sapodilla,Tree,10-11,Edible,No,1460-2190
+Sassafras,Flower,3-8,Ornamental,No,1825-3650
+Scarlet Runner Bean,Flower,4-8,Ornamental,No,70-90
+Sedum morganianum,Flower,3-8,Ornamental,No,365
+Serviceberry,Flower,4-8,Ornamental,No,365-730
+Shagbark Hickory,Tree,4-8,Edible,No,1825-3650
+Shallot,Flower,4-8,Ornamental,No,90-120
+Shasta Daisy,Flower,3-8,Ornamental,No,60-90
+Shellbark Hickory,Tree,5-8,Edible,No,1825-3650
+Shooting Star,Flower,3-8,Ornamental,No,60-90
+Showy Goldenrod,Flower,4-8,Ornamental,No,60-90
+Shumard Oak,Tree,5-9,Timber,No,1825-3650
+Sichuan Pepper,Tree,7-10,Edible,No,1095-1460
+Silver Grass,Grass,5-9,Ornamental,No,365-730
+Slippery Elm,Tree,3-9,Timber,No,1825-3650
+Snake Plant,Flower,4-8,Ornamental,No,180-365
+Snap Pea,Flower,3-9,Ornamental,No,60-70
+Snapdragon,Flower,3-9,Ornamental,No,90-120
+Sneezeweed,Flower,4-9,Ornamental,No,60-90
+Snow Pea,Flower,5-9,Ornamental,No,60-70
+Solomon’s Seal,Flower,4-8,Ornamental,No,365-730
+Sorrel,Flower,3-9,Ornamental,No,40-60
+Soursop,Tree,10-11,Edible,No,730-1095
+Soybean,Flower,3-9,Ornamental,No,80-100
+Spaghetti Squash,Flower,3-9,Ornamental,No,60-90
+Spanish Moss,Flower,3-9,Ornamental,No,365-730
+Spider Flower,Flower,10-11,Ornamental,No,60-90
+Spiderwort,Flower,4-9,Ornamental,No,60-90
+Spirea,Flower,3-8,Ornamental,No,365-730
+Split-Leaf Philodendron,Flower,3-9,Ornamental,No,180-365
+Spruce,Flower,3-9,Ornamental,No,1825-3650
+St. John's Wort,Flower,3-8,Ornamental,No,60-90
+Staghorn Fern,Flower,3-8,Ornamental,No,180-365
+Stapelia gigantea,Flower,3-9,Ornamental,No,365-730
+Star Anise,Tree,8-11,Edible,No,1095-1460
+Starfruit,Tree,10-11,Edible,No,730-1095
+Stevia,Flower,4-8,Ornamental,No,70-90
+Stiff Goldenrod,Tree,5-10,Ornamental,No,60-90
+Stock,Tree,4-8,Ornamental,No,50-60
+Stone Pine,Tree,8-10,Edible,No,1460-2190
+Strawberry,Tree,6-10,Ornamental,No,90-120
+String of Bananas,Tree,2-7,Ornamental,No,180-365
+String of Pearls,Tree,5-9,Ornamental,No,180-365
+Sugar Apple,Tree,10-11,Edible,No,730-1095
+Sugar Maple,Tree,4-9,Ornamental,No,1825-3650
+Sugar Snap Pea,Tree,4-9,Ornamental,No,60-70
+Sugarberry,Tree,7-10,Timber,No,1825-3650
+Sugarcane,Grass,9-11,Edible,No,365-730
+Sumac,Tree,3-8,Edible,No,365-730
+Sumac,Tree,3-8,Edible,No,90-120
+Sumac,Tree,5-10,Edible,No,365-730
+Sumac,Tree,5-10,Edible,No,90-120
+Summersweet,Tree,4-9,Ornamental,No,365-730
+Sunchoke,Tree,4-9,Ornamental,No,120-150
+Sunflower,Flower,4-9,Edible,No,70-100
+Surinam Cherry,Tree,9-11,Edible,No,365-730
+Swamp White Oak,Tree,4-8,Timber,No,1825-3650
+Sweet Alyssum,Flower,4-9,Edible,No,40-60
+Sweet Bay,Tree,8-10,Edible,No,1095-1460
+Sweet William,Tree,4-9,Ornamental,No,90-120
+Sweet Woodruff,Flower,3-8,Ornamental,No,60-90
+Sweetbay Magnolia,Tree,5-10,Ornamental,No,1825-3650
+Sweetgum,Flower,3-8,Ornamental,No,1825-3650
+Sweetshrub,Flower,3-9,Ornamental,No,365-730
+Sweetspire,Flower,4-9,Ornamental,No,365-730
+Swiss Chard,Flower,3-8,Ornamental,No,50-60
+Swiss Cheese Plant,Flower,3-8,Ornamental,No,180-365
+Switchgrass,Flower,3-8,Ornamental,No,365-730
+Sycamore,Flower,3-7,Ornamental,No,1825-3650
+Syngonium,Flower,3-8,Ornamental,No,120-180
+Szechuan Pepper,Tree,7-10,Edible,No,1095-1460
+Tamarack,Tree,2-5,Timber,No,1825-3650
+Tamarillo,Tree,9-11,Edible,No,365-730
+Tamarind,Tree,10-11,Edible,No,1460-2190
+Taro,Flower,3-8,Ornamental,No,180-210
+Tatsoi,Flower,3-8,Ornamental,No,30-45
+Thimbleberry,Flower,3-9,Ornamental,No,365-730
+Thyme,Flower,3-8,Ornamental,No,60-90
+Tickseed,Flower,4-9,Ornamental,No,70-100
+Tiger Nut,Grass,8-11,Edible,No,120-150
+Tillandsia,Flower,4-9,Ornamental,No,60-90
+Toad Lily,Grass,3-9,Ornamental,No,90-120
+Tomatillo,Grass,3-9,Ornamental,No,60-80
+Tomato,Grass,3-9,Ornamental,No,60-85
+Trillium,Grass,3-9,Ornamental,No,730-1095
+Tropical Almond,Tree,10-11,Edible,No,1460-2190
+Trumpet Vine,Grass,3-9,Ornamental,No,365-730
+Tulip,Grass,4-9,Ornamental,No,90-120
+Tulip Poplar,Grass,4-8,Ornamental,No,1825-3650
+Tulip Tree,Grass,3-8,Ornamental,No,1825-3650
+Turnip,Grass,3-8,Ornamental,No,30-60
+Tzimbalo,Tree,9-11,Edible,No,60-90
+Umbrella Plant,Grass,4-9,Ornamental,No,365-730
+Umbrella Tree,Grass,3-7,Edible,No,365-730
+Valerian,Grass,3-9,Ornamental,No,90-120
+Vallisneria,Grass,3-9,Ornamental,No,30-60
+Vanilla,Vine,11-12,Edible,No,1095-1460
+Water Yam,Vine,9-12,Edible,No,210-270
+Western Redcedar,Tree,5-8,Timber,No,1825-3650
+White Ash,Tree,4-9,Timber,No,1825-3650
+White Oak,Tree,3-9,Timber,No,1825-3650
+White Sapote,Tree,9-11,Edible,No,730-1095
+Wood Apple,Tree,10-11,Edible,No,1460-2190
+Yam Bean,Vine,10-12,Edible,No,90-120
+Yellow Birch,Tree,3-7,Timber,No,1825-3650
+Yellowhorn,Tree,5-9,Edible,No,1095-1460
+Zoysia Grass,Grass,6-10,Ornamental,No,365-730

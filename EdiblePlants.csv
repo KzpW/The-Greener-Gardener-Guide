@@ -1,0 +1,415 @@
+name,type,zone,use,poison,bloom
+Abiu,Tree,10-11,Edible,No,730-1095
+Achiote,Tree,10-11,Edible,No,90-120
+Acorn Squash,Vegetable,3-11,Edible,No,45-60
+Aechmea,Vegetable,3-10,Edible,No,365-730
+Aeonium arboreum,Fruit,3-8,Edible,No,180-365
+African Violet,Fruit,3-8,Edible,No,150-180
+Agave,Herb,4-10,Edible,No,3650-14600
+Air Potato,Vegetable,9-12,Edible,No,180-210
+Ajwain,Herb,8-11,Edible,No,90-120
+Alligator Pepper,Herb,10-11,Edible,No,1095-1460
+Allspice,Herb,10-12,Edible,No,1095-1460
+Almond,Tree,7-9,Edible,No,1460-2190
+Alocasia,Herb,5-9,Edible,No,180-365
+Aloe Vera,Vegetable,4-11,Edible,No,180-365
+Amaranth,Vegetable,2-11,Edible,No,60-90
+American Beautyberry,Vegetable,3-9,Edible,No,365
+American Elm,Vegetable,5-11,Edible,No,1825-3650
+American Groundnut,Vine,4-9,Edible,No,90-120
+Anise Hyssop,Herb,4-9,Edible,No,60-90
+Annatto,Tree,10-12,Edible,No,90-120
+Apios,Vine,4-9,Edible,No,90-120
+Apricot,Tree,5-8,Edible,No,1095-1460
+Aptenia,Vine,4-10,Edible,No,90-120
+Arizona Walnut,Tree,7-9,Edible,No,1825-3650
+Arracacha,Herb,9-11,Edible,No,180-210
+Arrowhead,Cactus,6-10,Edible,No,60-120
+Arrowhead Vine,Vegetable,2-9,Edible,No,120
+Arrowroot,Vegetable,9-11,Edible,No,180-270
+Artichoke,Vegetable,3-10,Edible,No,150-180
+Arugula,Fruit,4-9,Edible,No,40-60
+Asian Pear,Tree,5-9,Edible,No,730-1460
+Asparagus,Fruit,5-9,Edible,No,730-1095
+Asparagus Pea,Vegetable,6-11,Edible,No,60-70
+Aster,Herb,8-10,Edible,No,60-120
+Astilbe,Herb,3-11,Edible,No,90-120
+Avocado,Tree,9-11,Edible,No,730-1095
+Bael,Tree,10-11,Edible,No,1460-2190
+Bamboo Shoot,Vegetable,8-11,Edible,No,60-90
+Bamboo Shoots,Grass,7-11,Edible,No,30-60
+Barrel Cactus,Fruit,5-9,Edible,No,1825-3650
+Basil,Herb,8-10,Edible,No,60-90
+Basil (Holy),Herb,10-11,Edible,No,60-90
+Batata,Vine,8-11,Edible,No,90-120
+Bay Laurel,Vegetable,2-10,Edible,No,365-730
+Beaked Hazelnut,Tree,3-8,Edible,No,365-730
+Bee Balm,Tree,3-8,Edible,No,70-110
+Belgian Endive,Vegetable,4-7,Edible,No,85-100
+Black Bean,Vegetable,6-10,Edible,No,90-100
+Black Cherry,Tree,3-9,Edible,No,730-1460
+Black Chokeberry,Vegetable,3-10,Edible,No,730-1460
+Black Locust,Vegetable,3-9,Edible,No,1825-3650
+Black Mustard,Herb,6-11,Edible,No,365-730
+Black Pepper,Vegetable,11-12,Edible,No,1095-1460
+Black Salsify,Herb,6-9,Edible,No,120-150
+Black Sapote,Tree,10-11,Edible,No,730-1095
+Black-eyed Susan,Vegetable,2-9,Edible,No,70-90
+Blackberry,Vegetable,2-11,Edible,No,365-730
+Blackcurrant,Vegetable,3-8,Edible,No,365-730
+Bleeding Heart,Vegetable,3-9,Edible,No,60-90
+Bloodroot,Vegetable,3-10,Edible,No,365
+Blue False Indigo,Vegetable,6-11,Edible,No,1460
+Blue Flag Iris,Vegetable,2-10,Edible,No,365
+Blue-eyed Grass,Vegetable,2-10,Edible,No,60-90
+Blueberry,Vegetable,3-9,Edible,No,730-1095
+Boneset,Vegetable,3-8,Edible,No,365-730
+Boniato,Vine,8-11,Edible,No,90-120
+Borage,Vegetable,5-11,Edible,No,50-70
+Boston Fern,Vegetable,5-12,Edible,No,180-270
+Boston Ivy,Vegetable,5-11,Edible,No,730
+Bottle Palm,Vegetable,7-11,Edible,No,1460-1825
+Bottlebrush Grass,Vegetable,3-8,Edible,No,730
+Bougainvillea,Fruit,4-8,Edible,No,90-120
+Boxwood,Fruit,5-8,Edible,No,1460
+Boysenberry,Fruit,4-9,Edible,No,365-730
+Brazil Nut,Tree,11-12,Edible,No,2190-2920
+Breadfruit,Tree,10-11,Edible,No,1095-1460
+Breadnut,Tree,10-11,Edible,No,1095-1460
+Broad Bean,Vegetable,3-11,Edible,No,80-100
+Broccoli,Fruit,4-9,Edible,No,65-70
+Brodiaea,Herb,6-10,Edible,No,90-120
+Bromeliad,Fruit,7-10,Edible,No,90-120
+Brown Mustard,Herb,6-11,Edible,No,365-730
+Brunnera,Fruit,3-8,Edible,No,90-120
+Brussels Sprouts,Fruit,3-8,Edible,No,90-100
+Bun Long Taro,Herb,8-11,Edible,No,180-210
+Bunya Bunya,Tree,10-11,Edible,No,4380-10950
+Butterfly Bush,Fruit,5-9,Edible,No,60-120
+Butterfly Weed,Tree,6-9,Edible,No,365
+Butternut,Tree,4-8,Edible,No,1825-3650
+Buttonbush,Tree,4-8,Edible,No,730
+Cacao,Tree,10-11,Edible,No,1095-1460
+Camassia,Herb,4-9,Edible,No,90-120
+Canistel,Tree,10-11,Edible,No,730-1095
+Cantaloupe,Vegetable,4-9,Edible,No,70-100
+Caraway,Herb,4-10,Edible,No,70-90
+Cardamom,Herb,10-12,Edible,No,1095-1460
+Cardinal Flower,Vegetable,3-11,Edible,No,365-730
+Cardoon,Vegetable,3-9,Edible,No,120-150
+Carnation,Vegetable,4-9,Edible,No,120-150
+Carpathian Walnut,Tree,6-9,Edible,No,1825-3650
+Carrot,Vegetable,4-9,Edible,No,60-80
+Cassava,Tree,10-12,Edible,No,210-270
+Cast Iron Plant,Vegetable,4-8,Edible,No,730-1095
+Catnip,Vegetable,4-10,Edible,No,60-90
+Cattail,Vegetable,3-9,Edible,No,60-120
+Cauliflower,Vegetable,3-10,Edible,No,60-100
+Cayenne Pepper,Herb,8-10,Edible,No,60-120
+Cedar,Vegetable,4-11,Edible,No,1825-3650
+Celandine Poppy,Vegetable,4-11,Edible,No,60-90
+Celeriac,Vegetable,4-11,Edible,No,90-120
+Celery,Vegetable,6-11,Edible,No,85-120
+Celery Seed,Herb,5-9,Edible,No,90-120
+Celtuce,Vegetable,4-9,Edible,No,70-90
+Cereus,Vegetable,3-9,Edible,No,730-3650
+Chamomile,Vegetable,3-9,Edible,No,60
+Chamomile (German),Herb,2-9,Edible,No,60
+Chard,Vegetable,3-9,Edible,No,50-60
+Chayote,Vegetable,3-9,Edible,No,120-150
+Cherimoya,Tree,10-11,Edible,No,730-1095
+Cherry,Vegetable,3-9,Edible,No,1095-1825
+Chervil,Herb,3-8,Edible,No,40-60
+Chestnut,Tree,4-8,Edible,No,1460-2190
+Chickpea,Vegetable,4-10,Edible,No,90-100
+Chicory,Vegetable,4-10,Edible,No,60-85
+Chicory (Witloof),Vegetable,3-10,Edible,No,80-100
+Chilean Hazelnut,Tree,9-11,Edible,No,1460-2190
+Chili Pepper,Herb,8-10,Edible,No,60-120
+Chinese Artichoke,Herb,5-9,Edible,No,60-90
+Chinese Broccoli,Vegetable,2-11,Edible,No,50-60
+Chinese Cabbage,Vegetable,3-9,Edible,No,60-80
+Chinese Chestnut,Tree,4-8,Edible,No,1460-2190
+Chinese Evergreen,Vegetable,3-9,Edible,No,730-1095
+Chinese Fan Palm,Vegetable,3-9,Edible,No,730-1460
+Chinese Mustard,Vegetable,2-11,Edible,No,45-60
+Chinese Water Chestnut,Aquatic,8-11,Edible,No,90-120
+Chinese Yam,Vegetable,6-11,Edible,No,180-210
+Chives,Vegetable,3-10,Edible,No,60-90
+Cholla,Vegetable,3-10,Edible,No,365-730
+Christmas Cactus,Vegetable,3-10,Edible,No,90-180
+Chufa,Grass,8-11,Edible,No,120-150
+Chufa (Tiger Nut),Vegetable,8-11,Edible,No,120-150
+Cilantro (Coriander),Herb,2-11,Edible,No,45-70
+Cinnamon,Tree,10-12,Edible,No,1095-1460
+Clove,Tree,10-12,Edible,No,1825-2190
+Collard Greens,Flower,2-11,Edible,No,60-85
+Common Persimmon,Tree,4-9,Edible,No,1825-2920
+Coriander,Herb,3-11,Edible,No,60-90
+Costmary,Herb,5-9,Edible,No,60-90
+Cress,Herb,4-9,Edible,No,30-60
+Crosne,Vegetable,5-9,Edible,No,60-90
+Cuban Oregano,Herb,10-11,Edible,No,60-90
+Cubeb Pepper,Vegetable,10-12,Edible,No,1095-1460
+Culantro,Herb,10-11,Edible,No,60-90
+Cumin,Herb,8-11,Edible,No,100-120
+Cupuacu,Tree,10-11,Edible,No,730-1095
+Custard Apple,Tree,10-11,Edible,No,730-1095
+Date Palm,Tree,9-11,Edible,No,1460-2190
+Downy Serviceberry,Tree,4-9,Edible,No,365-730
+Dudleya,Tree,4-8,Edible,No,180-365
+Earthnut Pea,Vine,4-8,Edible,No,90-120
+Edamame,Vegetable,3-9,Edible,No,70-120
+Edible Canna,Herb,7-11,Edible,No,180-240
+Elephant Foot Yam,Herb,10-12,Edible,No,180-240
+Elephant Garlic,Herb,5-10,Edible,No,180-210
+Endive,Tree,5-9,Edible,No,85-100
+English Walnut,Tree,6-9,Edible,No,1825-3650
+Epazote,Herb,6-11,Edible,No,60-90
+Escarole,Tree,5-9,Edible,No,85-100
+Etonia Rosemary,Tree,8-10,Edible,No,60-90
+Euphorbia obesa,Tree,4-9,Edible,No,365-730
+European Chestnut,Tree,5-9,Edible,No,1460-2190
+Evening Primrose,Fruit,7-10,Edible,No,60-120
+Fairy Castle Cactus,Fruit,7-10,Edible,No,365-730
+False Indigo,Fruit,8-10,Edible,No,1460
+False Solomon’s Seal,Herb,3-9,Edible,No,365-730
+Fava Bean,Fruit,7-9,Edible,No,75-90
+Feijoa (Pineapple Guava),Tree,8-10,Edible,No,730-1095
+Fennel,Fruit,9-11,Edible,No,90-115
+Fenugreek,Herb,8-11,Edible,No,60-90
+Feverfew,Fruit,4-8,Edible,No,60-90
+Fiddle Leaf Fig,Fruit,3-8,Edible,No,730-1095
+Fig,Fruit,2-7,Edible,No,365-730
+Fingerroot,Herb,9-11,Edible,No,180-240
+Fishhook Barrel Cactus,Fruit,6-10,Edible,No,1825-3650
+Florence Fennel,Vegetable,6-10,Edible,No,90-115
+Forget-me-not,Fruit,6-10,Edible,No,60-90
+Forsythia,Fruit,6-10,Edible,No,365-730
+Four O'Clock,Fruit,5-9,Edible,No,60-90
+Foxglove,Fruit,4-8,Edible,No,365-730
+Fritillaria,Vegetable,3-9,Edible,No,90-120
+Gaillardia,Vegetable,3-9,Edible,No,70-100
+Galangal,Herb,9-11,Edible,No,365-730
+Garden Cress,Vegetable,2-11,Edible,No,20-30
+Garlic,Vegetable,9-11,Edible,No,90-120
+Gasteria,Vegetable,4-9,Edible,No,180-365
+Geranium,Vegetable,4-9,Edible,No,60-90
+Ginger,Herb,8-11,Edible,No,365-730
+Ginkgo,Tree,3-9,Edible,No,1825-3650
+Gloxinia,Vegetable,7-10,Edible,No,60-90
+Goat’s Beard,Vegetable,4-10,Edible,No,60-90
+Gobo (Burdock Root),Vegetable,4-9,Edible,No,90-120
+Goji Berry,Vegetable,3-9,Edible,No,365-730
+Golden Alexander,Vegetable,4-10,Edible,No,60-90
+Golden Beet,Herb,2-10,Edible,No,55-70
+Goldenrod,Vegetable,3-9,Edible,No,60-90
+Gooseberry,Vegetable,3-10,Edible,No,365-730
+Grains of Paradise,Herb,10-11,Edible,No,1095-1460
+Grape,Fruit,10-11,Edible,No,730-1095
+Graptopetalum paraguayense,Vegetable,4-8,Edible,No,180-365
+Great Blue Lobelia,Vegetable,4-8,Edible,No,365-730
+Green Bean,Vegetable,8-11,Edible,No,50-60
+Ground Cherry,Vegetable,10-11,Edible,No,70-80
+Groundnut,Herb,6-11,Edible,No,90-120
+Guava,Tree,9-11,Edible,No,730-1095
+Habañero,Herb,10-11,Edible,No,60-120
+Hamburg Parsley,Herb,4-9,Edible,No,90-120
+Hardy Kiwi,Fruit,4-8,Edible,No,1095-1460
+Haworthia,Vegetable,4-8,Edible,No,180-365
+Heartleaf Philodendron,Vegetable,4-8,Edible,No,180-365
+Heartnut,Tree,5-9,Edible,No,1460-2190
+Hellebore,Vegetable,4-9,Edible,No,365-730
+Hens and Chicks,Vegetable,4-9,Edible,No,90-180
+Hibiscus,Vegetable,4-9,Edible,No,90-120
+Hickory,Vegetable,3-9,Edible,No,1825-3650
+Holly,Herb,8-10,Edible,No,1825-3650
+Honey Locust,Herb,3-9,Edible,No,1825-3650
+Honeydew,Herb,3-9,Edible,No,80-100
+Horehound,Herb,3-11,Edible,No,60-90
+Hornwort,Herb,4-9,Edible,No,21-30
+Horse Chestnut,Herb,5-9,Edible,No,1825-3650
+Horseradish,Herb,4-8,Edible,No,365-730
+Hosta,Herb,4-8,Edible,No,180-365
+Huckleberry,Herb,7-9,Edible,No,730-1095
+Hydrangea,Herb,5-9,Edible,No,365-730
+Hyssop,Herb,4-9,Edible,No,70-90
+Ice Plant,Herb,4-8,Edible,No,60-90
+Impatiens,Herb,4-9,Edible,No,60-90
+Indian Grass,Herb,3-9,Edible,No,365-730
+Indian Jujube,Tree,9-11,Edible,No,365-730
+Indian Lotus,Aquatic,6-11,Edible,No,90-120
+Indian Potato,Vegetable,4-9,Edible,No,120-180
+Inkberry,Herb,4-8,Edible,No,365-730
+Iris,Herb,6-9,Edible,No,90-120
+Ironweed,Herb,9-11,Edible,No,60-120
+Ironwood,Tree,5-8,Edible,No,1825-3650
+Jaboticaba,Tree,9-11,Edible,No,730-1095
+Jack-in-the-pulpit,Herb,3-9,Edible,No,365-730
+Jackfruit,Tree,10-11,Edible,No,1460-2190
+Jacob’s Ladder,Flower,2-11,Edible,No,60-90
+Japanese Walnut,Tree,5-9,Edible,No,1825-3650
+Java Moss,Herb,4-9,Edible,No,21-30
+Jerusalem Artichoke,Herb,4-9,Edible,No,120-150
+Joe-Pye Weed,Herb,4-9,Edible,No,60-120
+Jujube,Tree,6-9,Edible,No,365-730
+Juniper,Herb,4-7,Edible,No,1825-3650
+Kaffir Lime,Tree,10-11,Edible,No,1095-1460
+Kalanchoe,Herb,3-9,Edible,No,90-120
+Kale,Herb,3-9,Edible,No,50-70
+Kiwi,Fruit,5-9,Edible,No,1095-1460
+Konjac,Herb,8-11,Edible,No,180-210
+Korean Pine,Tree,3-8,Edible,No,1460-2190
+Lamb's Lettuce,Vegetable,5-9,Edible,No,50-60
+Langsat,Tree,10-11,Edible,No,730-1095
+Lemon Verbena,Herb,8-10,Edible,No,90-120
+Leren,Herb,10-12,Edible,No,90-120
+Little Walnut,Tree,7-9,Edible,No,1825-3650
+Long Pepper,Vegetable,10-12,Edible,No,1095-1460
+Longan,Tree,10-11,Edible,No,1095-1460
+Loquat,Tree,8-10,Edible,No,365-730
+Lotus,Vine,6-10,Edible,No,90-120
+Lotus Root,Aquatic,6-11,Edible,No,120-150
+Lovage Seed,Herb,4-9,Edible,No,90-120
+Lucuma,Tree,10-11,Edible,No,1095-1460
+Lupin Root,Herb,6-9,Edible,No,90-120
+Lychee,Tree,10-11,Edible,No,1095-1460
+Maca,Herb,8-11,Edible,No,180-210
+Macadamia,Tree,10-11,Edible,No,1460-2190
+Mace,Tree,11-12,Edible,No,1825-2190
+Mahlab,Tree,6-8,Edible,No,1460-2190
+Malabar Chestnut,Tree,10-11,Edible,No,1460-2190
+Malanga,Herb,9-12,Edible,No,210-240
+Mango,Tree,10-11,Edible,No,1460-2190
+Mangosteen,Tree,10-11,Edible,No,1460-2190
+Manioc,Tree,10-12,Edible,No,210-270
+Marama Bean,Herb,9-11,Edible,No,120-180
+Mashua,Herb,8-11,Edible,No,120-150
+Mastic,Tree,9-11,Edible,No,1460-2190
+Mauka,Herb,8-11,Edible,No,180-210
+Meadow Garlic,Herb,4-9,Edible,No,60-90
+Medlar,Tree,5-8,Edible,No,730-1095
+Melegueta Pepper,Herb,10-11,Edible,No,1095-1460
+Mizuna,Cactus,6-10,Edible,No,30-40
+Mockernut Hickory,Tree,5-9,Edible,No,1825-3650
+Monkey Puzzle,Tree,7-10,Edible,No,4380-10950
+Monodora,Tree,11-12,Edible,No,1460-2190
+Moringa,Vegetable,9-11,Edible,No,365-730
+Moth Bean,Vegetable,8-12,Edible,No,60-80
+Mung Bean,Vegetable,8-12,Edible,No,60-70
+Mustard Seed,Herb,6-11,Edible,No,365-730
+Nigella,Herb,6-10,Edible,No,90-120
+Nopal (Cactus Pad),Vegetable,8-11,Edible,No,365-730
+Nutmeg,Tree,11-12,Edible,No,1825-2190
+Oca,Vegetable,8-11,Edible,No,150-180
+Okari Nut,Tree,11-12,Edible,No,1460-2190
+Paprika,Herb,8-10,Edible,No,60-120
+Pea Shoots,Vegetable,2-11,Edible,No,30-40
+Pecan (Native),Tree,6-9,Edible,No,1825-3650
+Perilla,Vegetable,2-11,Edible,No,60-90
+Pickerel Rush,Aquatic,3-10,Edible,No,90-120
+Pignut Hickory,Tree,4-9,Edible,No,1825-3650
+Pili Nut,Tree,11-12,Edible,No,1460-2190
+Pine Nut (Single-leaf),Tree,5-9,Edible,No,1460-2190
+Pink Ginger,Herb,9-11,Edible,No,365-730
+Pink Peppercorn,Tree,9-11,Edible,No,1095-1460
+Pistachio,Tree,8-10,Edible,No,1460-2190
+Poppy Seed,Herb,6-10,Edible,No,90-120
+Potato Onion,Herb,3-10,Edible,No,90-120
+Prairie Turnip,Herb,4-8,Edible,No,90-120
+Pulasan,Tree,10-11,Edible,No,1095-1460
+Purple Carrot,Herb,3-10,Edible,No,60-80
+Purple Yam,Vegetable,9-12,Edible,No,180-210
+Queensland Nut (Bopple Nut),Tree,10-11,Edible,No,1460-2190
+Radicchio,Succulent,3-10,Edible,No,80-100
+Rambutan,Tree,10-11,Edible,No,1095-1460
+Ramps,Herb,3-8,Edible,No,60-90
+Red Beet,Herb,2-10,Edible,No,55-70
+Roman Chamomile,Herb,4-9,Edible,No,60-90
+Romanesco,Vegetable,2-11,Edible,No,90-100
+Rutabaga,Vegetable,2-10,Edible,No,80-100
+Rutabaga,Vegetable,2-10,Edible,No,80-100
+Salsify,Vegetable,5-9,Edible,No,120-150
+Santol,Tree,10-11,Edible,No,1460-2190
+Sapodilla,Tree,10-11,Edible,No,1460-2190
+Savory (Summer),Herb,6-9,Edible,No,50-60
+Scorzonera,Vegetable,5-9,Edible,No,120-150
+Shagbark Hickory,Tree,4-8,Edible,No,1825-3650
+Shellbark Hickory,Tree,5-8,Edible,No,1825-3650
+Sichuan Pepper,Tree,7-10,Edible,No,1095-1460
+Skirret,Herb,4-8,Edible,No,120-150
+Snake Gourd,Vegetable,8-11,Edible,No,60-90
+Soaproot,Herb,7-10,Edible,No,90-120
+Soursop,Tree,10-11,Edible,No,730-1095
+Star Anise,Tree,8-11,Edible,No,1095-1460
+Starfruit,Tree,10-11,Edible,No,730-1095
+Stone Pine,Tree,8-10,Edible,No,1460-2190
+Sugar Apple,Tree,10-11,Edible,No,730-1095
+Sugar Beet,Herb,2-10,Edible,No,55-70
+Sugar Root,Herb,4-9,Edible,No,90-120
+Sugarcane,Grass,9-11,Edible,No,365-730
+Sumac,Tree,3-8,Edible,No,365-730
+Sumac,Tree,3-8,Edible,No,90-120
+Sumac,Tree,5-10,Edible,No,365-730
+Sumac,Tree,5-10,Edible,No,90-120
+Summer Savory,Herb,6-9,Edible,No,50-60
+Sunchoke (Jerusalem Artichoke),Vegetable,4-9,Edible,No,120-150
+Sunflower,Flower,4-9,Edible,No,70-100
+Surinam Cherry,Tree,9-11,Edible,No,365-730
+Swamp Milkweed,Aquatic,3-8,Edible,No,365
+Swede,Herb,3-9,Edible,No,80-100
+Sweet Alyssum,Flower,4-9,Edible,No,40-60
+Sweet Autumn Clematis,Vegetable,4-8,Edible,No,365-730
+Sweet Bay,Tree,8-10,Edible,No,1095-1460
+Sweet Cicely,Herb,4-8,Edible,No,90-120
+Sweet Corn,Vegetable,4-9,Edible,No,60-100
+Sweet Flag,Aquatic,4-10,Edible,No,90-120
+Sweet Pea,Vegetable,5-9,Edible,No,60-90
+Sweet Potato,Vegetable,4-9,Edible,No,90-120
+Szechuan Leaf (Toothache Plant),Herb,9-11,Edible,No,60-90
+Szechuan Lovage,Herb,4-9,Edible,No,90-120
+Szechuan Pepper,Tree,7-10,Edible,No,1095-1460
+Tabasco Pepper,Herb,10-11,Edible,No,60-120
+Tamarillo,Tree,9-11,Edible,No,365-730
+Tamarind,Tree,10-11,Edible,No,1460-2190
+Tannia,Herb,9-12,Edible,No,210-240
+Tat Soi,Vegetable,4-10,Edible,No,30-45
+Tiger Nut,Grass,8-11,Edible,No,120-150
+Tropical Almond,Tree,10-11,Edible,No,1460-2190
+Turmeric,Herb,8-11,Edible,No,365-730
+Turnip Greens,Vegetable,2-11,Edible,No,30-60
+Tzimbalo,Tree,9-11,Edible,No,60-90
+Ulluco,Vegetable,9-11,Edible,No,150-180
+Umbrella Tree,Grass,3-7,Edible,No,365-730
+Vanilla,Vine,11-12,Edible,No,1095-1460
+Vietnamese Coriander,Herb,8-11,Edible,No,60-90
+Water Celery,Aquatic,6-10,Edible,No,60-90
+Water Chestnut,Vegetable,9-11,Edible,No,90-120
+Water Hawthorn,Aquatic,8-11,Edible,No,60-90
+Water Mint,Aquatic,5-10,Edible,No,60-90
+Water Pepper,Herb,5-9,Edible,No,60-90
+Water Purslane,Aquatic,6-11,Edible,No,60-90
+Water Shield,Aquatic,5-10,Edible,No,60-90
+Water Smartweed,Aquatic,4-10,Edible,No,60-90
+Water Yam,Vine,9-12,Edible,No,210-270
+Watercress,Aquatic,5-10,Edible,No,40-60
+White Pepper,Vegetable,11-12,Edible,No,1095-1460
+White Sapote,Tree,9-11,Edible,No,730-1095
+Wild Carrot,Herb,3-10,Edible,No,60-80
+Wild Garlic,Herb,4-9,Edible,No,60-90
+Wild Leek,Herb,3-8,Edible,No,60-90
+Wild Yam,Vegetable,4-9,Edible,No,210-270
+Winged Bean,Vegetable,10-11,Edible,No,60-90
+Winter Savory,Herb,6-8,Edible,No,50-60
+Wood Apple,Tree,10-11,Edible,No,1460-2190
+Wood Avens,Herb,4-9,Edible,No,60-90
+Yacon,Herb,8-11,Edible,No,180-210
+Yacón,Herb,8-11,Edible,No,180-210
+Yam Bean,Vine,10-12,Edible,No,90-120
+Yam Daisy,Herb,8-10,Edible,No,90-120
+Yampah,Herb,5-9,Edible,No,90-120
+Yardlong Bean,Vegetable,10-11,Edible,No,60-90
+Yautia,Herb,9-12,Edible,No,180-240
+Yautía blanca,Herb,9-12,Edible,No,180-240
+Yellow Yam,Vegetable,9-12,Edible,No,210-270
+Yellowhorn,Tree,5-9,Edible,No,1095-1460
